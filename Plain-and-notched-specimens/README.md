@@ -2,7 +2,7 @@
 <p>The Theory of Critical Distances (TCD) is a design method that is widely used in situations of practical interest to estimate the strength of notched/cracked components subjected to either static, dynamic, or fatigue loading. The TCD method was proposed successively by Tanaka and Taylor on the basis of linear elastic fracture mechanics (LEFM). The average stress of a characteristic point or line in the vicinity of the notch is considered in TCD. Failure occurs when the average stress within the distance range from the notch tip exceeds the strength of materials. According to the topology type, TCD can be divided into the following categories, as shown in Figure 1.
  </p>
 <p align="center">
-  <img src="https://github.com/yanicen1/Theory-of-critical-distances/blob/master/Fig.1.png" width="550" title="hover text">
+  <img src="https://github.com/yanicen1/Theory-of-critical-distances/Plain-and-notched-specimens/blob/master/Fig.1.png" width="550" title="hover text">
 </p>
 <p align="center">
   Figure 1. Different forms of TCD.
