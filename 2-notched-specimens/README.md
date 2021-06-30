@@ -4,7 +4,7 @@
 
 </p>
 <p align="center">
-  <img src="https://github.com/yanicen1/Theory-of-critical-distances-2-notched-specimens/blob/master/Fig.1.png" width="350" title="hover text">
+  <img src="https://github.com/yanicen1/Theory-of-Critical-Distances/blob/main/2-notched-specimens/Fig.1.png" width="350" title="hover text">
 </p>
 <p align="center">
   Figure 1. Stress-distance curves.
@@ -22,7 +22,7 @@
 <p>3. The critical distance in mm.</p>
 <p>4. The graph that shows stress distribution vs distance from the notch root (Fig. 2).</p>
 <p align="center">
-  <img src="https://github.com/yanicen1/Theory-of-critical-distances-2-notched-specimens/blob/master/Fig.2.png" width="700" title="hover text">
+  <img src="https://github.com/yanicen1/Theory-of-Critical-Distances/blob/main/2-notched-specimens/Fig.2.png" width="700" title="hover text">
 </p>
 <p align="center">
   Figure 2. Stress-distance curves.
